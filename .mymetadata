@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MyVerifyCode"
+  id="myeclipse.1466210878176"
+  context-root="/MyVerifyCode"
+  j2ee-spec="5.0"
+  archive="MyVerifyCode.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
